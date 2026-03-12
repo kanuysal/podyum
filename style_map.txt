@@ -1,0 +1,1 @@
+stylePartListMap={fullBody:[{partId:"hero",fps:60/9,preload:!0}

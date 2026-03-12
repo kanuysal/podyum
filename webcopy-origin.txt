@@ -1,0 +1,164 @@
+Uri: https://exp-infinite-passerella.lusion.co/
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\index.htm
+Content Type: text/html
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/fonts/Aeonik-Regular.woff
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\Aeonik-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/fonts/Aeonik-Regular.woff2
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\Aeonik-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/fonts/exo2-variablefont_wght-webfont.woff
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\exo2-variablefont_wght-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/fonts/exo2-variablefont_wght-webfont.woff2
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\exo2-variablefont_wght-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/fonts/IBMPlexMono-Regular.woff
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\IBMPlexMono-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/fonts/IBMPlexMono-Regular.woff2
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\IBMPlexMono-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/fonts/roboto-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\roboto-regular-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/fonts/roboto-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\roboto-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/fonts/tuw-webfont.woff
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\tuw-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/fonts/tuw-webfont.woff2
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\tuw-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/images/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\images\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/images/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\images\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/images/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\images\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/images/favicon/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\images\favicon\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://exp-infinite-passerella.lusion.co/assets/images/favicon/site.webmanifest
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\images\favicon\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://exp-infinite-passerella.lusion.co/index.2d01e6cc.css
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\index.2d01e6cc.css
+Content Type: text/css
+
+Uri: https://exp-infinite-passerella.lusion.co/index.48ab324d.js
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\index.48ab324d.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&display=block
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cardo/v21/wlpygwjKBV1pqhND-aQR.ttf
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\s\cardo\v21\wlpygwjKBV1pqhND-aQR.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cardo/v21/wlp_gwjKBV1pqiv_.ttf
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\s\cardo\v21\wlp_gwjKBV1pqiv_.ttf
+Content Type: font/ttf
+
+Uri: https://labs.lusion.co/
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\index-1.htm
+Content Type: text/html
+
+Uri: https://labs.lusion.co/assets/fonts/Aeonik-Black.ttf
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\Aeonik-Black.ttf
+Content Type: font/ttf
+
+Uri: https://labs.lusion.co/assets/fonts/Aeonik-Medium.ttf
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\Aeonik-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://labs.lusion.co/assets/fonts/Aeonik-Regular.ttf
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\Aeonik-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://labs.lusion.co/assets/fonts/Aeonik-RegularItalic.ttf
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\Aeonik-RegularItalic.ttf
+Content Type: font/ttf
+
+Uri: https://labs.lusion.co/assets/fonts/IBMPlexMono-Medium.ttf
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\fonts\IBMPlexMono-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://labs.lusion.co/assets/index.22890b47.css
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\index.22890b47.css
+Content Type: text/css
+
+Uri: https://labs.lusion.co/assets/index.f4419199.js
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\index.f4419199.js
+Content Type: application/javascript
+
+Uri: https://labs.lusion.co/assets/meta/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\meta\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://labs.lusion.co/assets/meta/dark/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\meta\dark\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://labs.lusion.co/assets/meta/dark/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\meta\dark\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://labs.lusion.co/assets/meta/dark/favicon.ico
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\meta\dark\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://labs.lusion.co/assets/meta/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\meta\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://labs.lusion.co/assets/meta/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\meta\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://labs.lusion.co/assets/meta/favicon.ico
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\meta\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://labs.lusion.co/assets/meta/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\meta\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://labs.lusion.co/assets/meta/site.webmanifest
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\assets\meta\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://platform.twitter.com/widgets.js
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\widgets.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-EVJ7V9ZN7J
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-K2LJQFS7TD
+File Name: C:\Downloaded Web Sites\exp-infinite-passerella.lusion.co\gtag\js
+Content Type: application/javascript
+

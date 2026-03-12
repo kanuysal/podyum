@@ -1,0 +1,5 @@
+assets/fonts/Aeonik-Black.ttf
+assets/fonts/Aeonik-Medium.ttf
+assets/fonts/Aeonik-Regular.ttf
+assets/fonts/Aeonik-RegularItalic.ttf
+assets/fonts/IBMPlexMono-Medium.ttf

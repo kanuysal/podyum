@@ -1,0 +1,14 @@
+﻿@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(s/cardo/v21/wlp_gwjKBV1pqiv_.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: block;
+  src: url(s/cardo/v21/wlpygwjKBV1pqhND-aQR.ttf) format('truetype');
+}
